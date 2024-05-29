@@ -1,0 +1,37 @@
+<annotation>
+	<folder>n03476684</folder>
+	<filename>n03476684_18751</filename>
+	<source>
+		<database>ILSVRC_2012</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>n03476684</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>827</xmin>
+			<ymin>397</ymin>
+			<xmax>3365</xmax>
+			<ymax>1279</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>n03476684</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>1673</ymin>
+			<xmax>3647</xmax>
+			<ymax>2797</ymax>
+		</bndbox>
+	</object>
+</annotation>
